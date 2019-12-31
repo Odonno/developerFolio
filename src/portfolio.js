@@ -86,6 +86,9 @@ const openSource = {
 
   githubConvertedToken: "NDFlMWQ4MDdmOTU5YzZmYWQ2ZTFlMmI0NGU3ZDFmNTYyNGJhMDI1Mg==",
   githubUserName: "Odonno"
+
+  // TODO : contributed to
+  // TODO : vs. creator of
 };
 
 const bigProjects = {
