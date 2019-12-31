@@ -153,16 +153,22 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      image: "https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min."
+      url: "https://medium.com/@dbottiau/simplify-your-realtime-applications-by-bringing-signalr-into-the-ngrx-ecosystem-bc984cf2800c",
+      image: "https://lesdieuxducode.com/images/blog/remyfricou@expaceocom/signalr.png",
+      title: "Simplify your realtime applications by bringing SignalR into the @ngrx ecosystem",
+      description: "You may have written realtime applications with SignalR and/or you also may have written a web application using the @ngrx ecosystem. Following the Redux pattern, you desire predictable state management but the asynchronous messaging system of SignalR cannot be a part of it. However, these kinds of operations can be handled with side effects. And of course, @ngrx can deal with it."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      image: "https://miro.medium.com/max/1280/1*o08b2PW-1PVs94riZuhNMA.png",
-      title: "Why REACT Is The Best?",
-      description: "React is a JavaScript library for building the user interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://medium.com/@dbottiau/a-bright-future-for-functional-reactive-programming-and-net-developers-54780cd2f838",
+      image: "https://miro.medium.com/max/1250/1*HuVygv2S3cm4zuvNtUP8cw.jpeg",
+      title: "A bright future for Functional Reactive Programming and .NET developers",
+      description: "During the last few years, I felt in love with Functional Reactive Programming. My first experience was when I used Rx.NET on a Windows 8 C#/XAML application. I used Reactive programming to simplify and improve performance of the UI with a dynamic Grid splitter. I then improve my skills on Rx.NET and rxjs to the point I am fully aware of the benefits of the Observable thing even if I do not know every operator in the world."
+    },
+    {
+      url: "https://itnext.io/a-memo-on-how-to-implement-azure-ad-authentication-using-react-and-net-core-2-0-3fe9bfdf9f36",
+      image: "https://miro.medium.com/max/750/1*zBRB2ndXYp9xTlCNsT7pag.png",
+      title: "A memo on how to implement Azure AD authentication using React and .NET Core",
+      description: "I found many ways to implement Azure AD authentication using React and a .NET Core 2.x backend. In this article, I will demonstrate how to implement this type of authentication."
     }
   ]
 };
