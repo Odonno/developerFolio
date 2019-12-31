@@ -19,11 +19,11 @@ export default class Main extends Component {
         <Greeting />
         <Skills />
         <Projects />
-        <StartupProject />
-        <Achievement />
+        {/* <StartupProject /> */}
+        {/* <Achievement /> */ /* TODO : Azure AD-203*/}
         <Blogs />
-        <Talks />
-        <Podcast />
+        {/* <Talks /> */}
+        {/* <Podcast /> */}
         <Contact />
         <Footer />
       </div>
