@@ -15,7 +15,8 @@ const socialMediaLinks = {
   //gmail: "saadpasta70@gmail.com",
   //gitlab: "https://gitlab.com/saadpasta",
   //facebook: "https://www.facebook.com/saad.pasta7",
-  twitter: 'https://twitter.com/dbottiau'
+  twitter: 'https://twitter.com/dbottiau',
+  medium: 'https://medium.com/@dbottiau'
 };
 
 const skillsSection = {

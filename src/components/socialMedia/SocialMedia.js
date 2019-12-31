@@ -41,6 +41,12 @@ export default function socialMedia() {
           <span></span>
         </a>
       }
+      {socialMediaLinks.medium &&
+        <a href={socialMediaLinks.medium} className="icon-button medium" target="_blank">
+          <i className="fab fa-medium"></i>
+          <span></span>
+        </a>
+      }
     </div>
   );
 }
