@@ -12,7 +12,7 @@ const greeting = {
   username: 'David Bottiau',
   title: "Hi all, I'm David",
   subTitle: emoji(
-    "I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted Windows & web applications, my favorite languages are TypeScript and the C# / F# duo and I am a big fan of Functional Reactive Programming: React, rxjs, Rx.NET and all the good stuff 🎁"
+    "I am a passionate Full 🌟 Software Developer who ❤ to make well-crafted applications, my favorite languages are TypeScript and the C# / F# duo and I am a big fan of Functional Reactive Programming: React, rxjs, Rx.NET and all the good stuff 🎁"
   ),
   // resumeLink:
   //   'https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing',
@@ -55,10 +55,6 @@ const skillsSection = {
 https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
-    {
-      skillName: "windows",
-      fontAwesomeClassname: "fab fa-windows"
-    },
     {
       skillName: "git",
       fontAwesomeClassname: "fab fa-git-alt"
