@@ -24,11 +24,11 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/Odonno",
   linkedin: "https://www.linkedin.com/in/david-bottiau/",
-  gmail: 'saadpasta70@gmail.com',
-  gitlab: 'https://gitlab.com/saadpasta',
-  facebook: 'https://www.facebook.com/saad.pasta7',
+  // gmail: 'saadpasta70@gmail.com',
+  // gitlab: 'https://gitlab.com/saadpasta',
+  // facebook: 'https://www.facebook.com/saad.pasta7',
   medium: 'https://medium.com/@dbottiau',
-  stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
+  // stackoverflow: 'https://stackoverflow.com/users/10422806/saad-pasta',
   twitter: 'https://twitter.com/dbottiau',
   // Instagram and Twitter are also supported in the links!
   display: true, // Set true to display this section, defaults to false
