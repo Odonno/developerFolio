@@ -201,12 +201,12 @@ const bigProjects = {
   subtitle: 'SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH',
   projects: [
     {
-      image: require('./assets/images/saayaHealthLogo.webp'),
-      link: 'http://saayahealth.com/',
+      image: require('./assets/images/seconde-main.png'),
+      link: 'https://secondemain.kiabi.com/',
     },
     {
-      image: require('./assets/images/nextuLogo.webp'),
-      link: 'http://nextu.se/',
+      image: require('./assets/images/eurotunnel.jpg'),
+      link: 'https://driver.eurotunnelfreight.com/',
     },
   ],
   display: true, // Set false to hide this section, defaults to true

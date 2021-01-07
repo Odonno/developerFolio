@@ -34,9 +34,10 @@ export default function StartupProject() {
                   <div
                     key={i}
                     className="saaya-health-div"
+                    style={{ marginLeft: 20, marginRight: 20 }}
                     onClick={() => openProjectInNewWindow(project.link)}
                   >
-                    <img alt="Saad Working" src={project.image}></img>
+                    <img alt="" src={project.image}></img>
                   </div>
                 );
               })}
