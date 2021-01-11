@@ -60,7 +60,7 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-git-alt"
     },
     {
-      skillName: "html-5",
+      skillName: "html5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
@@ -84,11 +84,11 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-node"
     },
     {
-      skillName: "reactjs",
+      skillName: "react",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: 'sql-database',
+      skillName: 'sql database',
       fontAwesomeClassname: 'fas fa-database',
     },
     {
